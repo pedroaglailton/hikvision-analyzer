@@ -1,6 +1,7 @@
 # Hikvision Analyzer
 
 Pacote Python para análise automatizada de configurações de streaming em câmeras Hikvision.Criado para comparar streaming cameras, e correção.
+vai um exemplo app.py para ser usado com streamlit..
 
 ## Funcionalidades
 
