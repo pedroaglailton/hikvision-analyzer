@@ -10,7 +10,7 @@ setup(
     description="Módulo para análise de configurações de streaming em câmeras Hikvision",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/pedroaglailton/hikvision-analyzer",  # (opcional)
+    url="https://github.com/pedroaglailton/hikvision-analyzer",  
     packages=find_packages(),
     install_requires=[
         "requests",
@@ -28,4 +28,5 @@ setup(
     python_requires='>=3.6',
     keywords="hikvision camera streaming analyzer",
     include_package_data=True,
+
 )
